@@ -1,0 +1,31 @@
+#topbar{
+    background-color: blanchedalmond;
+    padding: 20px;
+    font-size: 23px;
+    padding: 9px;
+    font-weight: 600;
+    text-decoration: navajowhite;
+
+}
+.aaa{
+    text-decoration: none;
+}
+body{
+    background-color: skyblue;
+}
+h2{
+    font-size: 22px;
+    padding-left: 25px;
+ 
+    background-color: orange;
+}
+ul{
+    background-color: aquamarine;
+}
+.food-list-item{
+    font-size: 20px;
+    text-decoration: none;
+}
+.food-image{
+    text-align: center;
+}
